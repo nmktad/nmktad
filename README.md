@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 📧 Contact me
 
-[![gmail_badge]](mailto:nmktadesse@gmail.com) [![linkedin_badge]][linkedin]  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdeboute.mdeboute)
+[![gmail_badge]](mailto:nmktadesse@gmail.com) [![linkedin_badge]][linkedin]  ![visitors](https://visitor-badge.glitch.me/badge?page_id=nmktad.nmktad)
 
 ## 🔮 Tools, Technologies and Languages
 
