@@ -4,7 +4,7 @@
 
 # Hi <img src="https://raw.githubusercontent.com/nmktad/nmktad/main/Hi.gif" width="30px">, Nice to meet you
 
-<p> Check out my repositiories for some interesting projects </p>
+## Check out my repositiories for some interesting projects
 
 <!--
 
